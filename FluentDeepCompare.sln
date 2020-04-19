@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluentDeepCompare", "FluentDeepCompare\FluentDeepCompare.csproj", "{82D99891-44A2-4A6A-A0E8-B527F6D5CFA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleDemo", "ConsoleDemo\ConsoleDemo.csproj", "{8EFB5637-CFEB-41B6-87A6-E1CCB637C390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82D99891-44A2-4A6A-A0E8-B527F6D5CFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82D99891-44A2-4A6A-A0E8-B527F6D5CFA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82D99891-44A2-4A6A-A0E8-B527F6D5CFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82D99891-44A2-4A6A-A0E8-B527F6D5CFA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFB5637-CFEB-41B6-87A6-E1CCB637C390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFB5637-CFEB-41B6-87A6-E1CCB637C390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFB5637-CFEB-41B6-87A6-E1CCB637C390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFB5637-CFEB-41B6-87A6-E1CCB637C390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CF87FF5-16FA-40D6-A778-806F2FC22664}
+	EndGlobalSection
+EndGlobal
