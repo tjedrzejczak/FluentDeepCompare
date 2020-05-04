@@ -1,5 +1,6 @@
 # FluentDeepCompare
 
+![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/yprotech/FluentDeepCompare)
 ![Nuget](https://img.shields.io/nuget/v/FluentDeepCompare)
 ![GitHub](https://img.shields.io/github/repo-size/yprotech/FluentDeepCompare)
 ![GitHub](https://img.shields.io/github/license/yprotech/FluentDeepCompare)
