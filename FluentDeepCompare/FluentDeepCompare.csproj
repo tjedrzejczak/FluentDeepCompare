@@ -1,19 +1,20 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFrameworks>netstandard2.0;net46</TargetFrameworks>
-    <AssemblyVersion>0.5.1.0</AssemblyVersion>
-    <FileVersion>0.5.1.0</FileVersion>
-    <Version>0.5.1</Version>
-    <Authors>tjedrzejczak</Authors>
+    <TargetFrameworks>net5.0;netstandard2.0;net46</TargetFrameworks>
+    <AssemblyVersion>0.5.2.0</AssemblyVersion>
+    <FileVersion>0.5.2.0</FileVersion>
+    <Version>0.5.2</Version>
+    <Authors>ypro.tech</Authors>
     <Company>ypro.tech</Company>
-    <Copyright>Copyright © 2020 ypro.tech</Copyright>
+    <Copyright>Copyright © 2020-2021 ypro.tech</Copyright>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageProjectUrl>https://github.com/yprotech/FluentDeepCompare</PackageProjectUrl>
     <RepositoryUrl>https://github.com/yprotech/FluentDeepCompare</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>package.png</PackageIcon>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
+    <Description>FluentDeepCompare can be used to compare the content of objects of different types.</Description>
   </PropertyGroup>
 
   <ItemGroup>
